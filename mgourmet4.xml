@@ -1,0 +1,1205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>KEYWORDS</key>
+		<string></string>
+		<key>NAME</key>
+		<string>COVID-19 Week 8  May 10-18</string>
+		<key>SHOPPING_LIST_ITEMS</key>
+		<array>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Non-Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string></string>
+				<key>NAME</key>
+				<string>apples for eating</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>6</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Boyum 2020 Salad for the week</string>
+				<key>NAME</key>
+				<string>Arugula</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>bag/box</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Non-Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Gma/Papa</string>
+				<key>NAME</key>
+				<string>Bananas</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string></string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string></string>
+				<key>NAME</key>
+				<string>Bao Buns</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>Costco</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Christina's Cabbage Soup</string>
+				<key>NAME</key>
+				<string>basil</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>2</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>teaspoons</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>05A Mexican, Asian, Soups</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Christina's Cabbage Soup</string>
+				<key>NAME</key>
+				<string>beef broth</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>6</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>cups</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Gma/Papa, Boyum</string>
+				<key>NAME</key>
+				<string>Broccoli</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>2</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>13B Dairy</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Cheesy Chowder</string>
+				<key>NAME</key>
+				<string>butter</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string></string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string></string>
+				<key>NAME</key>
+				<string>Carrots, baby</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string></string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Refrigerated</string>
+				<key>CATEGORY</key>
+				<string>diced</string>
+				<key>DESCRIPTION</key>
+				<string>Cheesy Chowder</string>
+				<key>NAME</key>
+				<string>celery</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1/2</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>cup</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Gma/Papa</string>
+				<key>NAME</key>
+				<string>Celery</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string></string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>09A Cereal, Bars, Tea, Coffee</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string></string>
+				<key>NAME</key>
+				<string>cereal</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string></string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>10A Deli, Cheese, Lunchmeat</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Cheesy Chowder</string>
+				<key>NAME</key>
+				<string>cheddar cheese</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>2</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>cup</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Thai Pocket Bread Sandwiches</string>
+				<key>NAME</key>
+				<string>cilantro</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>cup</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>Beverages</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Gma/Papa</string>
+				<key>NAME</key>
+				<string>Coke, bottled Mexican</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>Costco</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>Frozen</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Sopky, Boyum</string>
+				<key>NAME</key>
+				<string>Costco Frozen Blueberries</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>2</string>
+				<key>STORE</key>
+				<string>Costco</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>Frozen</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string></string>
+				<key>NAME</key>
+				<string>Costco Frozen Mangos</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>Costco</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>Frozen</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Sopky</string>
+				<key>NAME</key>
+				<string>Costco Frozen Mixed Berries</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>Costco</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>Frozen</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string></string>
+				<key>NAME</key>
+				<string>Costco Frozen Pineapple</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>Costco</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Gma/Papa, Boyum</string>
+				<key>NAME</key>
+				<string>Cute Costco Cucumbers</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>2</string>
+				<key>STORE</key>
+				<string>Costco</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>Bakery</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string></string>
+				<key>NAME</key>
+				<string>Dave's Bread</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>Costco</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>Beverages</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Gma/Papa</string>
+				<key>NAME</key>
+				<string>Diet Coke, small cans</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>2</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>cases</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>Dairy</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Gma/Papa</string>
+				<key>NAME</key>
+				<string>Eggs</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>Costco</string>
+				<key>UNITS</key>
+				<string>flat</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>05A Mexican, Asian, Soups</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Gma/Papa</string>
+				<key>NAME</key>
+				<string>flour tortilla</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>pkg</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>Beverages</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string></string>
+				<key>NAME</key>
+				<string>Fresca</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>Produce</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Gma/Papa, Boyum 2020 Salad for the week</string>
+				<key>NAME</key>
+				<string>Fresh blueberries (Costco)</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>2</string>
+				<key>STORE</key>
+				<string>Costco</string>
+				<key>UNITS</key>
+				<string>box</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Non-Refrigerated</string>
+				<key>CATEGORY</key>
+				<string>grated</string>
+				<key>DESCRIPTION</key>
+				<string>Thai Pocket Bread Sandwiches</string>
+				<key>NAME</key>
+				<string>fresh ginger</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1/4</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>cup</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Non-Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Christina's Cabbage Soup</string>
+				<key>NAME</key>
+				<string>garlic cloves</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>4</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>Beverages</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Gma/Papa</string>
+				<key>NAME</key>
+				<string>Ginger Ale, small cans</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>case</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>Beverages</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string></string>
+				<key>NAME</key>
+				<string>Ginger beer</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>Costco</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Boyum 2020 Salad for the week</string>
+				<key>NAME</key>
+				<string>Good white cheddar (Costco)</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>aprox 1</string>
+				<key>STORE</key>
+				<string>Costco</string>
+				<key>UNITS</key>
+				<string>cup</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Gma/Papa, Christina's Cabbage Soup</string>
+				<key>NAME</key>
+				<string>green beans</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>Costco</string>
+				<key>UNITS</key>
+				<string>cup</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Christina's Cabbage Soup</string>
+				<key>NAME</key>
+				<string>Green cabbage</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>4</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>cups</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Radish and Vegetable Hot and Sour Soup</string>
+				<key>NAME</key>
+				<string>green onions (scallions)</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>2/3</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>cup</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>10A Meat</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Thai Pocket Bread Sandwiches</string>
+				<key>NAME</key>
+				<string>ground beef</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>2</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>lbs.</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>10A Deli, Cheese, Lunchmeat</string>
+				<key>CATEGORY</key>
+				<string>cubed</string>
+				<key>DESCRIPTION</key>
+				<string>Cheesy Chowder</string>
+				<key>NAME</key>
+				<string>ham</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>cup</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>08A Spices, Baking, Oil, PB</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string></string>
+				<key>NAME</key>
+				<string>Hershey's syrup</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string></string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string></string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string></string>
+				<key>NAME</key>
+				<string>Honey Bunches of Oats</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string></string>
+				<key>STORE</key>
+				<string>Costco</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>10A Deli, Cheese, Lunchmeat</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string></string>
+				<key>NAME</key>
+				<string>Jimmy Dean Sausage, hot</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>lb</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>Beverages</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string></string>
+				<key>NAME</key>
+				<string>LeCroix, Cran-Raspberry</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>Beverages</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string></string>
+				<key>NAME</key>
+				<string>LeCroix, Passionfruit</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Thai Pocket Bread Sandwiches</string>
+				<key>NAME</key>
+				<string>lettuce, butterhead</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>16</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>leaf</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Non-Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Thai Pocket Bread Sandwiches</string>
+				<key>NAME</key>
+				<string>lime juice</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1/4</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>cup</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>Dairy</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Gma/Papa</string>
+				<key>NAME</key>
+				<string>Lowfat milk</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string></string>
+				<key>STORE</key>
+				<string>Costco</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>10A Deli, Cheese, Lunchmeat</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string></string>
+				<key>NAME</key>
+				<string>lunch meat</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string></string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string></string>
+				<key>NAME</key>
+				<string>Maple syrup</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string></string>
+				<key>STORE</key>
+				<string>Costco</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>13B Dairy</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string></string>
+				<key>NAME</key>
+				<string>milk, whole</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>gal</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Gma/Papa, Boyum 2020 Salad for the week</string>
+				<key>NAME</key>
+				<string>mini bell peppers</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>2</string>
+				<key>STORE</key>
+				<string>Costco</string>
+				<key>UNITS</key>
+				<string>Pkg</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string></string>
+				<key>NAME</key>
+				<string>Napa Cabbage</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string></string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>Produce</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Gma/Papa</string>
+				<key>NAME</key>
+				<string>Oranges</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>Costco</string>
+				<key>UNITS</key>
+				<string>bag</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>10A Deli, Cheese, Lunchmeat</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Thai Pocket Bread Sandwiches</string>
+				<key>NAME</key>
+				<string>pita bread</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>8</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Non-Refrigerated</string>
+				<key>CATEGORY</key>
+				<string>diced</string>
+				<key>DESCRIPTION</key>
+				<string>Cheesy Chowder</string>
+				<key>NAME</key>
+				<string>potatoes</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>2</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>cup</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Non-Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string></string>
+				<key>NAME</key>
+				<string>potatoes -- yellow? to have with kilbasa</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Radish and Vegetable Hot and Sour Soup</string>
+				<key>NAME</key>
+				<string>radishes (1-1/2 cups)</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>6</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>oz</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>Frozen</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Radish and Vegetable Hot and Sour Soup</string>
+				<key>NAME</key>
+				<string>raw shrimp</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>Costco</string>
+				<key>UNITS</key>
+				<string>lb.</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Refrigerated</string>
+				<key>CATEGORY</key>
+				<string>diced</string>
+				<key>DESCRIPTION</key>
+				<string>Thai Pocket Bread Sandwiches</string>
+				<key>NAME</key>
+				<string>red bell pepper</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>4</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>medium</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>06A Canned Fruit/Veg, Condiments, Juice</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Radish and Vegetable Hot and Sour Soup</string>
+				<key>NAME</key>
+				<string>rice wine vinegar</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1/4</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>cup</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Gma/Papa</string>
+				<key>NAME</key>
+				<string>romaine lettuce</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Radish and Vegetable Hot and Sour Soup</string>
+				<key>NAME</key>
+				<string>spinach leaves, shredded</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1 1/2</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>cups</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Non-Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Gma/Papa</string>
+				<key>NAME</key>
+				<string>sweet potatoes</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>6</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Non-Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Thai Pocket Bread Sandwiches</string>
+				<key>NAME</key>
+				<string>tomato</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>2</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>larges</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>06A Canned Fruit/Veg, Condiments, Juice</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Christina's Cabbage Soup</string>
+				<key>NAME</key>
+				<string>tomato paste</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>2</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>tablespoons</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>02A Wine</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Gma/Papa</string>
+				<key>NAME</key>
+				<string>tonic water</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>2</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>containers</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>08A Spices, Baking, Oil, PB</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Christina's Finnish Oatcakes</string>
+				<key>NAME</key>
+				<string>yeast, rapid rise</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1.5 packets</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Non-Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Christina's Cabbage Soup</string>
+				<key>NAME</key>
+				<string>yellow onion</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>cup</string>
+			</dict>
+			<dict>
+				<key>AISLE</key>
+				<string>00 Produce Refrigerated</string>
+				<key>CATEGORY</key>
+				<string></string>
+				<key>DESCRIPTION</key>
+				<string>Christina's Cabbage Soup</string>
+				<key>NAME</key>
+				<string>zucchini</string>
+				<key>PRICE</key>
+				<string></string>
+				<key>QUANTITY</key>
+				<string>1</string>
+				<key>STORE</key>
+				<string>WinCo</string>
+				<key>UNITS</key>
+				<string>cup</string>
+			</dict>
+		</array>
+		<key>TYPE</key>
+		<integer>112</integer>
+	</dict>
+</array>
+</plist>
