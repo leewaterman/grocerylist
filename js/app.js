@@ -59,15 +59,18 @@ var app = new Framework7({
            }
 
            // loop through the grocery object and build html
+           html += '<div class="list accordion-list"><ul>';
            for (var s in groceries) {
-            html += '<div class="block-title">'+s+'</div><div class="list">';
+            html += '<li class="accordion-item">'+
+            '<a href="#" class="item-link item-content">'+
+            '<div class="item-inner">'+
+            '<div class="item-title">'+s+'</div>'+
+            '</div>'+
+            '</a>'+
+            '<div class="accordion-item-content">';
             for (var a in groceries[s]) {
-              html += '<ul><li>'+
-              '<label class="item-checkbox item-content">'+
-                '<div class="item-inner">'+
-                  '<div class="item-title">'+a+'</div>'+
-                '</div>'+
-              '</label></li>';
+              html += '<div class="block-title">'+a+'</div>';
+              html += '<div class="list"><ul>';
               for (var i in groceries[s][a]) {
                 html += '<li>' +
                           '<label class="item-checkbox item-content">' +
@@ -79,13 +82,14 @@ var app = new Framework7({
                           '</label>' +
                           '</li>';
               }
-              html += '</ul>';
+              html += '</ul></div>';
             }              
-            html += '</div>';
+            html += '</li>';
           }
+          html += '</ul></div>';
           
           // write the html to the DOM
-          document.getElementById("demo").innerHTML = html;               
+          document.getElementById("my-list").innerHTML = html;               
         },
         error: function (xhr, textStatus, errorThrown) {
         },
