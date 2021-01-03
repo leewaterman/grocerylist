@@ -85,7 +85,7 @@ var app = new Framework7({
                           '</li>';
               }
               html += '</ul></div>';
-            }              
+            });              
             html += '</li>';
           }
           html += '</ul></div>';
