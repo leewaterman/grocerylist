@@ -56,7 +56,12 @@ var app = new Framework7({
 
               // Add to array
               groceries[store][aisle].push(item);
+              groceries[store][aisle].sort();
            }
+           //var aisles_sorted = Object.keys(groceries[s]);
+			     //aisles_sorted.sort();
+
+
 
            // loop through the grocery object and build html
            html += '<div class="list accordion-list"><ul>';
@@ -68,9 +73,7 @@ var app = new Framework7({
             '</div>'+
             '</a>'+
             '<div class="accordion-item-content">';
-			var aisles_sorted = Object.keys(groceries[s]);
-			aisles_sorted.sort();
-			aisles_sorted.forEach(function (a, i) {
+            for (var a in groceries[s]) {
               html += '<div class="block-title">'+a+'</div>';
               html += '<div class="list"><ul>';
               for (var i in groceries[s][a]) {
@@ -85,7 +88,7 @@ var app = new Framework7({
                           '</li>';
               }
               html += '</ul></div>';
-            });              
+            }            
             html += '</li>';
           }
           html += '</ul></div>';
