@@ -56,11 +56,10 @@ var app = new Framework7({
 
               // Add to array
               groceries[store][aisle].push(item);
+
+              // Sort
               groceries[store][aisle].sort();
            }
-           //var aisles_sorted = Object.keys(groceries[s]);
-			     //aisles_sorted.sort();
-
 
 
            // loop through the grocery object and build html
