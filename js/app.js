@@ -68,7 +68,9 @@ var app = new Framework7({
             '</div>'+
             '</a>'+
             '<div class="accordion-item-content">';
-            for (var a in groceries[s]) {
+			var aisles_sorted = Object.keys(groceries[s]);
+			aisles_sorted.sort();
+			aisles_sorted.forEach(function (a, i) {
               html += '<div class="block-title">'+a+'</div>';
               html += '<div class="list"><ul>';
               for (var i in groceries[s][a]) {
